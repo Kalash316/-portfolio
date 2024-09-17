@@ -1,0 +1,18 @@
+#resume {
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#resume a {
+    text-decoration: none;
+    color: #337ab7;
+}
+
+#resume a:hover {
+    color: #23527c;
+}
+
+#resume i {
+    margin-right: 10px;
+}
